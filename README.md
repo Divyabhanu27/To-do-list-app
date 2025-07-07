@@ -1,4 +1,4 @@
-# Micro-IT-internship
+# To-do-list app
 Web-based To-Do List application built with HTML, CSS, JavaScript (CSS and JavaScript merged in HTML)  – Internship project
 
 # To-Do List Web Application
